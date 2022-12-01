@@ -1,69 +1,28 @@
-- title: "How does Working from Home Affect Developer Productivity? – A Case Study of Baidu During the COVID-19 Pandemic"
-  authors: <b>Lingfeng Bao</b>, Tao Li, Xin Xia, Kaiyu Zhu, Hui Li, Xiaohu Yang 
-  venue: Science China Information Sciences (SCIS)
+- title: "An Exploratory Study on the Repeatedly Shared External Links on Stack Overflowow"
+  authors: <b>Jiakun Liu</b>, Haoxiang Zhang, Xin Xia, David Lo, Ying Zou, Ahmed E. Hassan, Shanping Li
+  venue: Empirical Software Engineering (EMSE)
+  year: 2022
+  status: Accepted
+  pdf: papers/emse212.pdf
+
+- title: "Broken External Links on Stack Overflow"
+  authors: <b>Jiakun Liu</b>, Xin Xia, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li
+  venue:  IEEE Transactions on Software Engineering (TSE)
   year: 2021
-  status: accepted
+  status: Accepted
+  pdf: papers/tse214.pdf
 
-- title: "psc2code: Denoising Code Extraction from Programming Screencasts"
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang 
-  venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+- title: "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt"
+  authors: <b>Jiakun Liu</b>, Qiao Huang, Xin Xia, Emad Shihab, David Lo, Shanping Li
+  venue: Empirical Software Engineering (EMSE)
+  year: 2021
+  status: Accepted
+  pdf: papers/emse202.pdf
+
+- title: "基于信息检索的软件缺陷定位技术研究进展"
+  authors: 张芸，<b>刘佳琨</b>，夏鑫，吴明晖，颜晖.
+  venue: 软件学报
   year: 2020
-  status: accepted
+  status: 已录用
+  pdf: papers/rjxb202.pdf
 
-- title: "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects"
-  authors: <b>Lingfeng Bao</b>, Xin Xia, David Lo, Gail Murphy
-  venue: IEEE Transactions on Software Engineering (TSE)
-  year: 2019
-  status: accepted
-
-- title: "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System"
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo
-  venue: IEEE Transactions on Software Engineering (TSE)
-  year: 2018
-  pdf: papers/TSE-VTRevolution.pdf
-  status: accepted
-
-- title: "APIReal: An API Recognition and Linking Approach for Online Developer Forums"
-  authors: Deheng Ye, <b>Lingfeng Bao</b>, Zhenchang Xing, Shang-Wei Lin
-  venue: Empirical Software Engineering (EMSE)
-  year: 2018
-  pdf: papers/EMSE-APIReal.pdf
-  status: accepted
-  remark: Corresponding author
-  
-- title: Inference of Development Activities from Interaction with Uninstrumented Applications
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan
-  venue: Empirical Software Engineering (EMSE)
-  pdf: papers/EMSECRF.pdf
-  year: 2017
-  status: accepted
-
-- title: "Measuring Program Comprehension: A Large-Scale Field Study with Professionals"
-  authors: Xin Xia, <b><b>Lingfeng Bao</b></b>, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li
-  venue: IEEE Transactions on Software Engineering (TSE)
-  pdf: papers/tsecomprehension.pdf
-  year: 2017
-  status: accepted
-  remark: Corresponding author
-
-- title: What Do Developers Search For on the Web?
-  authors: Xin Xia, <b>Lingfeng Bao</b>, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing
-  venue: Empirical Software Engineering (EMSE)
-  pdf: papers/EMSESearch.pdf
-  year: 2017
-  status: accepted
-  remark: Corresponding author, Invited to ESEC/FSE2017 as part of the Journal First initiative.
-
-- title: Automated Android App Permission Recommendation
-  authors: <b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li
-  venue: SCIENCE CHINA Information Sciences (SCIS)
-  pdf: papers/scis_paper.pdf
-  year: 2017
-  status: accepted
-
-- title: Extracting and Analyzing Time-Series HCI Data from Screen-Captured Task Videos
-  authors: <b>Lingfeng Bao</b>, Jing Li, Zhenchang Xing, Xinyu Wang, Xin Xia, Bo Zhou
-  venue: Empirical Software Engineering (EMSE)
-  pdf: papers/EMSE.pdf
-  year: 2016
-  status: accepted
