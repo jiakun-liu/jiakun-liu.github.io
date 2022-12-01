@@ -1,189 +1,21 @@
-- title: "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction"
-  authors: Qiuyuan Chen, Dezhen Kong, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li
-  venue: 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022), SEIP Track
-  year: 2022
-  status: accepted
-
-- title: "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities"
-  authors: <b>Lingfeng Bao</b>, Xin Xia, Ahmed E. Hassan, Xiaohu Yang
-  venue: 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)
-  year: 2022
-  status: accepted
-  pdf: papers/ICSE2022VSZZ.pdf
-
-- title: "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities"
-  authors: Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu
-  venue: 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), Conditionally Accepted as a Full Paper
-  year: 2022
-  status: accepted
-
-- title: "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study"
-  authors: Dezhen Kong, Qiuyuan Chen, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li
+- title: "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community"
+  authors: Menghan Wu, Yang Zhang, <b>Jiakun Liu</b>, Shangwen Wang, Zhang Zhang, Xin Xia, Xinjun Mao
   venue: 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
   year: 2022
-  status: accepted
+  status: Accepted as a Full Paper. (<b>IEEE Computer Society TCSE Distinguished Paper Award</b>) 
+  pdf: papers/saner.pdf
 
-- title: "Automating Developer Chat Mining"
-  authors: Shengyi Pan, <b>Lingfeng Bao</b>, Xiaoxue Ren, Xin Xia, David Lo, Shanping Li
-  venue: 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)
+- title: "Characterizing Search Activities on Stack Overflow"
+  authors: <b>Jiakun Liu</b>, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, Xin Xia
+  venue: The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)
   year: 2021
-  status: accepted
+  status: Accepted as a Full Paper
+  pdf: papers/fse213.pdf
 
-- title: "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help"
-  authors: Zhiyuan Wan, <b>Lingfeng Bao</b>, Debin Gao, Eran Toch, Xin Xia, Tamir Mendel, David Lo
-  venue: 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020)
+- title: "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks"
+  authors: <b>Jiakun Liu</b>, Qiao Huang, Xin Xia, Emad Shihab, David Lo, Shanping Li
+  venue: 42nd ACM/IEEE International Conference on Software Engineering (ICSE 2020)
   year: 2020
-  status: accepted
+  status: Accepted as a SEIS Track Full Paper.
+  pdf: papers/icse201.pdf
 
-- title: "Enhancing Developer Interactions with Programming Screencasts through Accurate Code Extraction"
-  authors: <b>Lingfeng Bao</b>, Shengyi Pan, Zhenchang Xing, Xin Xia, David Lo, Xiaohu Yang
-  venue: 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Demonstration
-  year: 2020
-  status: accepted
-
-- title: "On Reliability of Patch Correctness Assessment"
-  authors: Xuan Bach D. Le, <b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li, Corina Pasareanu
-  venue: 41st ACM/IEEE International Conference on Software Engineering （ICSE 2019)
-  year: 2019
-  status: accepted
-
-- title: "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures"
-  authors: Qiuyuan Chen, <b>Lingfeng Bao</b>, Li Li, Xin Xia, Liang Cai
-  venue: The 25th Asia-Pacific Software Engineering Conference (APSEC)
-  year: 2018
-
-- title: "A Smart Context-aware Program Assistant based on Dynamic Programming Event Modeling"
-  authors: Xuejiao Zhao, Hongwei Li, Yutian Tang, Dongjing Gao, <b>Lingfeng Bao</b>, Ching Hung Lee
-  venue: The 29th IEEE International Symposium on Software Reliability Engineering (ISSRE), Industry Track
-  year: 2018
-  status: accepted
-  remark: Best Industry Paper Award
-
-- title: "Towards Mining Comprehensive Android Sandboxes"
-  authors: Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo, Debin Gao, Li Li
-  venue: The 23rd International Conference on Engineering of Complex Computer Systems (ICECCS)
-  year: 2018
-  status: accepted
-  pdf: papers/ICECCS2018.pdf
-  remark: joint first author
-
-- title: "DSM: A Specification Mining Tool using Recurrent Neural Network Based Language Model"
-  authors: Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo
-  venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Demonstration
-  year: 2018
-  pdf: papers/FSE2018Demo2.pdf
-  status: accepted
-
-- title: "VT-Revolution: Interactive Programming Tutorials Made Possible "
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Shanping Li
-  venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Demonstration
-  year: 2018
-  pdf: papers/FSE2018Demo.pdf
-  status: accepted
-
-- title: "Using Finite-State Models for Log Differencing"
-  authors: Hen Amar, <b>Lingfeng Bao</b>, Nimrod Busany, Shahar Maoz, David Lo
-  venue: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-  year: 2018
-  pdf: papers/FSE2018.pdf
-  status: accepted
-
-- title: "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu"
-  authors: Xiaoxue Ren, Qiao Huang, Xin Xia, Zhenchang Xing, <b>Lingfeng Bao</b>, David Lo
-  venue: The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018)
-  pdf: papers/compsac182.pdf
-  year: 2018
-  status: accepted as a short paper
-
-- title: "Mining Sandboxes: Are We There Yet?"
-  authors: <b>Lingfeng Bao</b>, Tien-Duy B. Le, David Lo
-  venue: 25th IEEE Internation Conferance on Software Analysis, Evolution and Reengineering (SANER)
-  pdf: papers/SANER2018.pdf
-  year: 2018
-  status: accepted
-
-- title: "Personality and Project Success: Insights from a Large-Scale Study with Professionals"
-  authors: Xin Xia, David Lo, <b>Lingfeng Bao</b>, Abhishek Sharma,  Shanping Li
-  venue: 33nd International Conference on Software Maintenance and Evolution (ICSME)
-  pdf: papers/ICSME2017.pdf
-  year: 2017
-  status: accepted
-  remark: corresponding author
-
-- title: Who Will Leave the Company? - A Large-Scale Industry Study of Developer Turnover by Mining Monthly Work Report
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Shanping Li
-  venue: 14th International Conference on Mining Software Repositories (MSR)
-  pdf: papers/MSR2017.pdf
-  year: 2017
-  status: accepted
-
-- title: What Permissions Should This App Request?
-  authors: <b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li.
-  venue: The Annual Conference on Software Analysis, Testing and Evolution (SATE)
-  pdf: papers/SATE2016.pdf
-  year: 2016
-  status: accepted
-
-- title: Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports
-  authors: Xinli Yang, David Lo, Xin Xia, <b>Lingfeng Bao</b> and Jianling Sun
-  venue: 27th International Symposium on Software Reliability Engineering (ISSRE)
-  pdf: papers/ISSRE2016.pdf
-  year: 2016
-  status: accepted
-
-- title: '"Automated Debugging Considered Harmful" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems'
-  authors: Xin Xia, <b>Lingfeng Bao</b>, David Lo, Shanping Li
-  venue: 32nd International Conference on Software Maintenance and Evolution (ICSME)
-  pdf: papers/ICSMEmain.pdf
-  year: 2016
-  status: accepted
-  remark: joint first author
-
-- title: How Android App Developers Manage Power Consumption? – An Empirical Study by Mining Power Management Commits
-  authors: <b>Lingfeng Bao</b>, David Lo, Xin Xia, Xinyu Wang, Cong Tian
-  venue: 13th International Conference on Mining Software Repositories (MSR)
-  pdf: papers/ICSE16-MSR-63.pdf
-  year: 2016
-  status: accepted
-
-- title: "Tracking and Analyzing Cross-Cutting Activities in Developers’ Daily Work"
-  authors: <b>Lingfeng Bao</b>, Zhenchang Xing, Xinyu Wang, and Bo Zhou
-  venue: 30th IEEE/ACM International Conference on Automated Software Engineering(ASE), new idea paper
-  pdf: papers/ASE2015newidea.pdf
-  year: 2015
-  status: accepted
-
-- title: "ActivitySpace: An Interapplication Remembrance Agent for Integrated Knowledge Work"
-  authors: <b>Lingfeng Bao</b>,  Decheng Ye, Zhenchang Xing,  Xin Xia,   Xinyu Wang
-  venue: 30th IEEE/ACM International Conference on Automated Software Engineering(ASE), Demonstration
-  pdf: papers/ASE2015Demo.pdf
-  year: 2015
-  status: accepted
-
-- title: "scvRipper: Video Scraping Tool for Modeling Developers’ Behavior Using Interaction Data"
-  authors: <b>Lingfeng Bao</b>, Jing Li, Zhenchang Xing, Xinyu Wang, and Bo Zhou
-  venue: 37th International Conference on Software Engineering (ICSE), Demonstration
-  pdf: papers/ICSE2015Demo.pdf
-  year: 2015
-  status: accepted
-
-- title: Reverse Engineering Time-Series Interaction Data from Screen-Captured Videos
-  authors: <b>Lingfeng Bao</b>, Jing Li, Zhenchang Xing, Xinyu Wang, and Bo Zhou
-  venue: 22nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
-  pdf: papers/SANER2015Bao.pdf
-  year: 2015
-  status: accepted
-
-- title: "amAssist: In-IDE Ambient Search of Online Programming Resources"
-  authors: Hongwei Li, Xuejiao Zhao, Zhenchang Xing, <b>Lingfeng Bao</b>, Xin Peng, Dongjing Gao, Wenyun Zhao
-  venue: 22nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
-  pdf: papers/SANER2015Li.pdf
-  year: 2015
-  status: accepted
-
-- title: "BPMiner: Mining Developers’ Behavior Patterns from Screen-Captured Task Videos"
-  authors: Jing Li, <b>Lingfeng Bao</b>, Zhenchang Xing, Xinyu Wang and Bo Zhou
-  venue: The 31st ACM Symposium on Applied Computing (SAC)
-  pdf: papers/SAC2016.pdf
-  year: 2016
-  status: accepted
