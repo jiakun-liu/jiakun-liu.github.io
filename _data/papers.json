@@ -4,7 +4,7 @@
             "idx": "C3",
             "title": "On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community",
             "authors": "Menghan Wu, Yang Zhang, <b>Jiakun Liu</b>, Shangwen Wang, Zhang Zhang, Xin Xia, Xinjun Mao",
-            "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
+            "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) (CCF-B)",
             "status": "Accepted as a Full Paper. (<b>IEEE Computer Society TCSE Distinguished Paper Award</b>) ",
             "pdf": "papers/saner.pdf"
         },
@@ -12,7 +12,7 @@
             "idx": "J4",
             "title": "An Exploratory Study on the Repeatedly Shared External Links on Stack Overflowow",
             "authors": "<b>Jiakun Liu</b>, Haoxiang Zhang, Xin Xia, David Lo, Ying Zou, Ahmed E. Hassan, Shanping Li",
-            "venue": "Empirical Software Engineering (EMSE)",
+            "venue": "Empirical Software Engineering (EMSE) (CCF-B)",
             "status": "Accepted",
             "pdf": "papers/emse212.pdf"
         }
@@ -22,7 +22,7 @@
             "idx": "C2",
             "title": "Characterizing Search Activities on Stack Overflow",
             "authors": "<b>Jiakun Liu</b>, Sebastian Baltes, Christoph Treude, David Lo, Yun Zhang, Xin Xia",
-            "venue": "The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)",
+            "venue": "The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021) (CCF-A)",
             "status": "Accepted as a Full Paper",
             "pdf": "papers/fse213.pdf"
         },
@@ -30,7 +30,7 @@
             "idx": "J3",
             "title": "Broken External Links on Stack Overflow",
             "authors": "<b>Jiakun Liu</b>, Xin Xia, David Lo, Haoxiang Zhang, Ying Zou, Ahmed E. Hassan, Shanping Li",
-            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "venue": "IEEE Transactions on Software Engineering (TSE) (CCF-A)",
             "status": "Accepted",
             "pdf": "papers/tse214.pdf"
         },
@@ -38,7 +38,7 @@
             "idx": "J2",
             "title": "An Exploratory Study on the Introduction and Removal of Different Types of Technical Debt",
             "authors": "<b>Jiakun Liu</b>, Qiao Huang, Xin Xia, Emad Shihab, David Lo, Shanping Li",
-            "venue": "Empirical Software Engineering (EMSE)",
+            "venue": "Empirical Software Engineering (EMSE) (CCF-B)",
             "status": "Accepted",
             "pdf": "papers/emse202.pdf"
         }
@@ -48,7 +48,7 @@
             "idx": "J1",
             "title": "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks",
             "authors": "<b>Jiakun Liu</b>, Qiao Huang, Xin Xia, Emad Shihab, David Lo, Shanping Li",
-            "venue": "42nd ACM/IEEE International Conference on Software Engineering (ICSE 2020)",
+            "venue": "42nd ACM/IEEE International Conference on Software Engineering (ICSE 2020) (CCF-A)",
             "status": "Accepted as a SEIS Track Full Paper.",
             "pdf": "papers/icse201.pdf"
         },
