@@ -1,0 +1,329 @@
+{
+    "2022": [
+         {
+            "idx": "C29",
+            "title": "Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction",
+            "authors": "Qiuyuan Chen, Dezhen Kong, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
+            "venue": "44th ACM/IEEE International Conference on Software Engineering （ICSE 2022)",
+            "status": "Accepted as a SEIP Track Full Paper"
+        },
+        {
+            "idx": "C28",
+            "title": "VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities",
+            "authors": "Shichao Wang, Yun Zhang, <b>Lingfeng Bao</b>, Xin Xia, Minghui Wu",
+            "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
+            "status": "Accepted as a Full Paper"
+        },
+        {
+            "idx": "C27",
+            "title": "Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study",
+            "authors": "Dezhen Kong, Qiuyuan Chen, <b>Lingfeng Bao</b>, Chenxing Sun, Xin Xia, Shanping Li",
+            "venue": "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C26",
+            "title": "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities",
+            "authors": "<b>Lingfeng Bao</b>, Xin Xia, Ahmed E. Hassan, Xiaohu Yang",
+            "venue": "44th ACM/IEEE International Conference on Software Engineering (ICSE 2022)",
+            "status": "Accepted as a Full Paper",
+            "pdf": "papers/ICSE2022VSZZ.pdf"
+        }
+    ],
+    "2021": [
+        {
+            "idx": "J10",
+            "title": "How does Working from Home Affect Developer Productivity? – A Case Study of Baidu During the COVID-19 Pandemic",
+            "authors": "<b>Lingfeng Bao</b>, Tao Li, Xin Xia, Kaiyu Zhu, Hui Li, Xiaohu Yang",
+            "venue": "Science China Information Sciences (SCIS)",
+            "status": "Accepted"
+        },
+        {
+            "idx": "C25",
+            "title": "Automating Developer Chat Mining",
+            "authors": "Shengyi Pan, <b>Lingfeng Bao</b>, Xiaoxue Ren, Xin Xia, David Lo, Shanping Li",
+            "venue": "36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)",
+            "status": "Accepted as a Full Paper"
+        }
+    ],
+    "2020": [
+        {
+            "idx": "C24",
+            "title": "Enhancing Developer Interactions with Programming Screencasts through Accurate Code Extraction",
+            "authors": "<b>Lingfeng Bao</b>, Shengyi Pan, Zhenchang Xing, Xin Xia, David Lo, Xiaohu Yang",
+            "venue": "28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)",
+            "status": "Accepted as a Demonstration Paper"
+        },
+        {
+            "idx": "J9",
+            "title": "psc2code: Denoising Code Extraction from Programming Screencasts",
+            "authors": "<b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Minghui Wu, Xiaohu Yang",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+            "status": "Online"
+        },
+        {
+            "idx": "C23",
+            "title": "AppMoD: Helping Older Adults Manage Mobile Security with Online Social Help",
+            "authors": "Zhiyuan Wan, <b>Lingfeng Bao</b>, Debin Gao, Eran Toch, Xin Xia, Tamir Mendel, David Lo",
+            "venue": "2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2020)",
+            "status": "Accepted as a Full Paper"
+        }
+    ],
+    "2019": [
+        {
+            "idx": "J8",
+            "title": "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects",
+            "authors": "<b>Lingfeng Bao</b>, Xin Xia, David Lo, Gail Murphy",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "status": "Online"
+        },
+        {
+            "idx": "C22",
+            "title": "Statistical Log Differencing",
+            "authors": "<b>Lingfeng Bao</b>, Nimrod Busany, David Lo, and Shahar Maoz",
+            "venue": "34th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+            "status": "pp. 851-862"
+        },
+        {
+            "idx": "C21",
+            "title": "On Reliability of Patch Correctness Assessment",
+            "authors": "Xuan Bach D. Le, <b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li, Corina Pasareanu",
+            "venue": "41st ACM/IEEE International Conference on Software Engineering （ICSE 2019)",
+            "status": "pp. 524-535",
+            "remark": "Joint First Author"
+        }
+    ],
+    "2018": [
+        {
+            "idx": "J7",
+            "title": "VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System",
+            "authors": "<b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "pdf": "papers/TSE-VTRevolution.pdf",
+            "status": "45(8), 823-838"
+        },
+        {
+            "idx": "J6",
+            "title": "APIReal: An API Recognition and Linking Approach for Online Developer Forums",
+            "authors": "Deheng Ye, <b>Lingfeng Bao</b>, Zhenchang Xing, Shang-Wei Lin",
+            "venue": "Empirical Software Engineering (EMSE)",
+            "pdf": "papers/EMSE-APIReal.pdf",
+            "status": "23(6), 3129-3160",
+            "remark": "Corresponding Author"
+        },
+        {
+            "idx": "C20",
+            "title": "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures",
+            "authors": "Qiuyuan Chen, <b>Lingfeng Bao</b>, Li Li, Xin Xia, Liang Cai",
+            "venue": "The 25th Asia-Pacific Software Engineering Conference (APSEC)"
+        },
+        {
+            "idx": "C19",
+            "title": "A Smart Context-aware Program Assistant based on Dynamic Programming Event Modeling",
+            "authors": "Xuejiao Zhao, Hongwei Li, Yutian Tang, Dongjing Gao, <b>Lingfeng Bao</b>, Ching Hung Lee",
+            "venue": "The 29th IEEE International Symposium on Software Reliability Engineering (ISSRE), Industry Track",
+            "status": "Accepted",
+            "remark": "Best Industry Paper Award"
+        },
+        {
+            "idx": "C18",
+            "title": "Towards Mining Comprehensive Android Sandboxes",
+            "authors": "Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo, Debin Gao, Li Li",
+            "venue": "The 23rd International Conference on Engineering of Complex Computer Systems (ICECCS)",
+            "status": "Accepted",
+            "pdf": "papers/ICECCS2018.pdf",
+            "remark": "joint first author"
+        },
+        {
+            "idx": "C17",
+            "title": "DSM: A Specification Mining Tool using Recurrent Neural Network Based Language Model",
+            "authors": "Tien-Duy B. Le, <b>Lingfeng Bao</b>, David Lo",
+            "venue": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Demonstration",
+            "pdf": "papers/FSE2018Demo2.pdf",
+            "status": "accepted"
+        },
+        {
+            "idx": "C16",
+            "title": "VT-Revolution: Interactive Programming Tutorials Made Possible ",
+            "authors": "<b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Shanping Li",
+            "venue": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Demonstration",
+            "pdf": "papers/FSE2018Demo.pdf",
+            "status": "pp. 924-927"
+        },
+        {
+            "idx": "C15",
+            "title": "Using Finite-State Models for Log Differencing",
+            "authors": "Hen Amar, <b>Lingfeng Bao</b>, Nimrod Busany, Shahar Maoz, David Lo",
+            "venue": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)",
+            "pdf": "papers/FSE2018.pdf",
+            "status": " pp. 49-59"
+        },
+        {
+            "idx": "C14",
+            "title": "Characterizing Common and Domain-Specific Package Bugs: A Case Study on Ubuntu",
+            "authors": "Xiaoxue Ren, Qiao Huang, Xin Xia, Zhenchang Xing, <b>Lingfeng Bao</b>, David Lo",
+            "venue": "The 41st Annual International Computers, Software & Applications Conference (COMPSAC 2018)",
+            "pdf": "papers/compsac182.pdf",
+            "status": "accepted as a short paper"
+        },
+        {
+            "idx": "C13",
+            "title": "Mining Sandboxes: Are We There Yet?",
+            "authors": "<b>Lingfeng Bao</b>, Tien-Duy B. Le, David Lo",
+            "venue": "25th IEEE Internation Conferance on Software Analysis, Evolution and Reengineering (SANER)",
+            "pdf": "papers/SANER2018.pdf",
+            "status": "accepted"
+        }
+    ],
+    "2017": [
+        {
+            "idx": "J5",
+            "title": "Inference of Development Activities from Interaction with Uninstrumented Applications",
+            "authors": "<b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Ahmed E. Hassan",
+            "venue": "Empirical Software Engineering (EMSE)",
+            "pdf": "papers/EMSECRF.pdf",
+            "year": 2017,
+            "status": "23(3), 1313-1351"
+        },
+        {
+            "idx": "J4",
+            "title": "Measuring Program Comprehension: A Large-Scale Field Study with Professionals",
+            "authors": "Xin Xia, <b><b>Lingfeng Bao</b></b>, David Lo, Zhenchang Xing, Ahmed E. Hassan, Shanping Li",
+            "venue": "IEEE Transactions on Software Engineering (TSE)",
+            "pdf": "papers/tsecomprehension.pdf",
+            "year": 2017,
+            "status": "44(10), 951-976",
+            "remark": "Corresponding author"
+        },
+        {
+            "idx": "J3",
+            "title": "What Do Developers Search For on the Web?",
+            "authors": "Xin Xia, <b>Lingfeng Bao</b>, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing",
+            "venue": "Empirical Software Engineering (EMSE)",
+            "pdf": "papers/EMSESearch.pdf",
+            "year": 2017,
+            "status": "22(6), 3149-3185",
+            "remark": "Corresponding author, Invited to ESEC/FSE2017 as part of the Journal First initiative."
+        },
+        {
+            "idx": "J2",
+            "title": "Automated Android App Permission Recommendation",
+            "authors": "<b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li",
+            "venue": "SCIENCE CHINA Information Sciences (SCIS)",
+            "pdf": "papers/scis_paper.pdf",
+            "year": 2017,
+            "status": "60(9), 092110"
+        },
+        {
+            "idx": "C12",
+            "title": "Personality and Project Success: Insights from a Large-Scale Study with Professionals",
+            "authors": "Xin Xia, David Lo, <b>Lingfeng Bao</b>, Abhishek Sharma,  Shanping Li",
+            "venue": "33nd International Conference on Software Maintenance and Evolution (ICSME)",
+            "pdf": "papers/ICSME2017.pdf",
+            "status": "pp. 318-328",
+            "remark": "Corresponding Author"
+        },
+        {
+            "idx": "C11",
+            "title": "Who Will Leave the Company? - A Large-Scale Industry Study of Developer Turnover by Mining Monthly Work Report",
+            "authors": "<b>Lingfeng Bao</b>, Zhenchang Xing, Xin Xia, David Lo, Shanping Li",
+            "venue": "14th International Conference on Mining Software Repositories (MSR)",
+            "pdf": "papers/MSR2017.pdf",
+            "status": "accepted"
+        }
+    ],
+    "2016": [
+        {
+            "idx": "J1",
+            "title": "Extracting and Analyzing Time-Series HCI Data from Screen-Captured Task Videos",
+            "authors": "<b>Lingfeng Bao</b>, Jing Li, Zhenchang Xing, Xinyu Wang, Xin Xia, Bo Zhou",
+            "venue": "Empirical Software Engineering (EMSE)",
+            "pdf": "papers/EMSE.pdf",
+            "year": 2016,
+            "status": "22(1), 134-174"
+        },
+        {
+            "idx": "C10",
+            "title": "What Permissions Should This App Request?",
+            "authors": "<b>Lingfeng Bao</b>, David Lo, Xin Xia, Shanping Li.",
+            "venue": "The Annual Conference on Software Analysis, Testing and Evolution (SATE)",
+            "pdf": "papers/SATE2016.pdf",
+            "status": "accepted"
+        },
+        {
+            "idx": "C9",
+            "title": "Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports",
+            "authors": "Xinli Yang, David Lo, Xin Xia, <b>Lingfeng Bao</b> and Jianling Sun",
+            "venue": "27th International Symposium on Software Reliability Engineering (ISSRE)",
+            "pdf": "papers/ISSRE2016.pdf",
+            "status": "pp. 127-137"
+        },
+        {
+            "idx": "C8",
+            "title": "\"Automated Debugging Considered Harmful\" Considered Harmful -- A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals using Real Bugs from Large Systems",
+            "authors": "Xin Xia, <b>Lingfeng Bao</b>, David Lo, Shanping Li",
+            "venue": "32nd International Conference on Software Maintenance and Evolution (ICSME)",
+            "pdf": "papers/ICSMEmain.pdf",
+            "status": "pp. 267-278",
+            "remark": "Joint First Author"
+        },
+        {
+            "idx": "C7",
+            "title": "How Android App Developers Manage Power Consumption? – An Empirical Study by Mining Power Management Commits",
+            "authors": "<b>Lingfeng Bao</b>, David Lo, Xin Xia, Xinyu Wang, Cong Tian",
+            "venue": "13th International Conference on Mining Software Repositories (MSR)",
+            "pdf": "papers/ICSE16-MSR-63.pdf",
+            "status": "accepted"
+        },
+        {
+            "idx": "C6",
+            "title": "BPMiner: Mining Developers’ Behavior Patterns from Screen-Captured Task Videos",
+            "authors": "Jing Li, <b>Lingfeng Bao</b>, Zhenchang Xing, Xinyu Wang and Bo Zhou",
+            "venue": "The 31st ACM Symposium on Applied Computing (SAC)",
+            "pdf": "papers/SAC2016.pdf",
+            "status": "accepted"
+        }
+    ],
+    "2015": [
+        {
+            "idx": "C5",
+            "title": "Tracking and Analyzing Cross-Cutting Activities in Developers’ Daily Work",
+            "authors": "<b>Lingfeng Bao</b>, Zhenchang Xing, Xinyu Wang, and Bo Zhou",
+            "venue": "30th IEEE/ACM International Conference on Automated Software Engineering(ASE), new idea paper",
+            "pdf": "papers/ASE2015newidea.pdf",
+            "status": "pp. 277-282"
+        },
+        {
+            "idx": "C4",
+            "title": "ActivitySpace: An Interapplication Remembrance Agent for Integrated Knowledge Work",
+            "authors": "<b>Lingfeng Bao</b>,  Decheng Ye, Zhenchang Xing,  Xin Xia,   Xinyu Wang",
+            "venue": "30th IEEE/ACM International Conference on Automated Software Engineering(ASE), Demonstration",
+            "pdf": "papers/ASE2015Demo.pdf",
+            "status": "pp. 864-869"
+        },
+        {
+            "idx": "C3",
+            "title": "scvRipper: Video Scraping Tool for Modeling Developers’ Behavior Using Interaction Data",
+            "authors": "<b>Lingfeng Bao</b>, Jing Li, Zhenchang Xing, Xinyu Wang, and Bo Zhou",
+            "venue": "37th International Conference on Software Engineering (ICSE), Demonstration",
+            "pdf": "papers/ICSE2015Demo.pdf",
+            "status": "pp. 673–676"
+        },
+        {
+            "idx": "C2",
+            "title": "Reverse Engineering Time-Series Interaction Data from Screen-Captured Videos",
+            "authors": "<b>Lingfeng Bao</b>, Jing Li, Zhenchang Xing, Xinyu Wang, and Bo Zhou",
+            "venue": "22nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+            "pdf": "papers/SANER2015Bao.pdf",
+            "status": "pp. 399–408"
+        },
+        {
+            "idx": "C1",
+            "title": "amAssist: In-IDE Ambient Search of Online Programming Resources",
+            "authors": "Hongwei Li, Xuejiao Zhao, Zhenchang Xing, <b>Lingfeng Bao</b>, Xin Peng, Dongjing Gao, Wenyun Zhao",
+            "venue": "22nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+            "pdf": "papers/SANER2015Li.pdf",
+            "status": "pp. 390-398"
+        }
+    ]
+}

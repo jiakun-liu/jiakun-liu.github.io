@@ -1,0 +1,77 @@
+{
+  "2020": [
+    {
+        "name": "Program Committee",
+        "venue": "35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)"
+      },
+      {
+        "name": "Program Committee",
+        "venue": "36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020)"
+      },
+      {
+        "name": "Program Committee",
+        "venue": "20th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2020)"
+      },
+      {
+        "name": "Proceeding co-Chairs",
+        "venue": "7th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft 2020)"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "Empirical Software Engineering"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "Journal of Systems and Software"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "IEEE Transactions on Reliability"
+      }
+  ],
+  "2019":
+    [
+      {
+        "name": "Program Committee",
+        "venue": "34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019 Demonstration Track)"
+      },
+      {
+        "name": "Program Committee",
+        "venue": "19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019)"
+      },
+      {
+        "name": "Proceeding co-Chairs",
+        "venue": "26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019)"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "IEEE Transactions on Software Engineering"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "Empirical Software Engineering"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "Journal of Systems and Software"
+      },
+      {
+        "name": "Journal referee",
+        "venue": "IEEE Transactions on Reliability"
+      }
+    ],
+  "2018":
+    [
+      {
+        "name": "Program Committee",
+        "venue": "15th Working Conference on Mining Software Repositories (MSR 2018 Mining Challenge Track)"
+      },
+    ],
+  "2017":
+    [
+      {
+        "name": "Program Committee",
+        "venue": "33rd International Conference on Software Maintenance and Evolution (ICSME 2017 Demonstration Track)"
+      },
+    ],
+}
