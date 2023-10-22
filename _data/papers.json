@@ -1,6 +1,13 @@
 {   
     "2023": [
         {
+            "idx": "Technique Report",
+            "title": "Dynamically Blocking Target Methods in Android Applications",
+            "authors": "Zicheng Zhang, Jiakun Liu, Debin Gao, David Lo",
+            "venue": "Technique Report",
+            "pdf": "papers/technique_dyndebloater.pdf"
+        },
+        {
             "idx": "C7",
             "title": "The Devil is in the Tails: How Long-Tailed Code Distributions Impact Large Language Models",
             "authors": "Xin Zhou, Kisub Kim, Bowen Xu, <b>Jiakun Liu</b>, DongGyun Han, David Lo",
