@@ -1,4 +1,38 @@
-{
+{   
+    "2023": [
+        {
+            "idx": "C7",
+            "title": "The Devil is in the Tails: How Long-Tailed Code Distributions Impact Large Language Models",
+            "authors": "Xin Zhou, Kisub Kim, Bowen Xu, <b>Jiakun Liu</b>, DongGyun Han, David Lo",
+            "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) (CCF-A)",
+            "status": "Accepted as a Full paper",
+            "pdf": "papers/ase_longtail.pdf"
+        },
+        {
+            "idx": "C6",
+            "title": "AutoDebloater: Automated Android App Debloating",
+            "authors": "<b>Jiakun Liu</b>, Xing Hu, Ferdian Thung, Shahar Maoz, Eran Toch, Debin Gao, and David Lo",
+            "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
+            "status": "Accepted as a Tool Demo paper",
+            "pdf": "papers/ase_autodebloater.pdf"
+        },
+        {
+            "idx": "C5",
+            "title": "Are We Ready to Embrace Generative AI for Software Q&A?",
+            "authors": "Bowen Xu, Thanh-Dat Nguyen, Thanh Le-Cong, Thong Hoang, <b>Jiakun Liu</b>, Kisub Kim, Chen Gong, Changan Niu, Chenyu Wang, Bach Le, David Lo",
+            "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)",
+            "status": "Accepted as a NIER paper",
+            "pdf": "papers/ase_nier_sqa.pdf"
+        },
+        {
+            "idx": "C4",
+            "title": "TECHSUMBOT: A Stack Overflow Answer Summarization Tool for Technical Query",
+            "authors": "Chengran Yang, Bowen Xu, <b>Jiakun Liu</b>, David Lo",
+            "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering",
+            "status": "Accepted as a Tool Demo Paper.",
+            "pdf": "papers/icse_techsum.pdf"
+        }
+    ],
     "2022": [
         {
             "idx": "C3",
