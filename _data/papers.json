@@ -5,21 +5,24 @@
             "title": "MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating",
             "authors": "<b>Jiakun Liu</b>, Zicheng Zhang, Xing Hu, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",
             "venue": "46nd ACM/IEEE International Conference on Software Engineering (ICSE 2024) (CCF-A)",
-            "status": "Accepted"
+            "status": "Accepted",
+            "pdf": ""
         },
         {
             "idx": "C9",
             "title": "Self-Admitted Technical Debts Identification: How Far Are We?",
             "authors": "Hao Gu, Shichao Zhang, Qiao Huang, Zhifang Liao, <b>Jiakun Liu</b>* and David Lo",
             "venue": "31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) (CCF-B)",
-            "status": "Accepted as a Full Paper."
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
         },
         {
             "idx": "C8",
             "title": "Sustainability Forecasting for Deep Learning Packages",
             "authors": "Junxiao Han, Yunkun Wang, Zhongxin Liu, Lingfeng Bao, <b>Jiakun Liu</b>*, David Lo and Shuiguang Deng",
             "venue": "31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022) (CCF-B)",
-            "status": "Accepted as a Full Paper."
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
         }
     ],
     "2023": [
