@@ -1,6 +1,22 @@
 {
     "2024": [
         {
+            "idx": "J7",
+            "title": "Towards Better Comprehension of Breaking Changes in NPM Ecosystem",
+            "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Lingfeng Bao, David Lo",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted",
+            "pdf": ""
+        },
+        {
+            "idx": "J6",
+            "title": "PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models",
+            "authors": "Junda He, Bowen Xu, Zhou Yang, DongGyun Han, Chengran Yang, <b>Jiakun Liu</b>, Zhipeng Zhao, and David Lo",
+            "venue": "Empirical Software Engineering (EMSE) (CCF-B)",
+            "status": "Accepted",
+            "pdf": ""
+        },
+        {
             "idx": "C10",
             "title": "MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating",
             "authors": "<b>Jiakun Liu</b>, Zicheng Zhang, Xing Hu, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",
