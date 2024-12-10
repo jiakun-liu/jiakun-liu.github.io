@@ -1,6 +1,14 @@
 {
     "2024": [
         {
+            "idx": "J8",
+            "title": "Exploring the Capabilities of LLMs for Code Change Related Tasks",
+            "authors": "Lishui Fan, <b>Jiakun Liu</b>, Zhongxin Liu, David Lo, Xin Xia, Shanping Li",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted",
+            "pdf": ""
+        },
+        {
             "idx": "J7",
             "title": "Towards Better Comprehension of Breaking Changes in NPM Ecosystem",
             "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Lingfeng Bao, David Lo",
