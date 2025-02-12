@@ -6,7 +6,7 @@
             "authors": "Lishui Fan, <b>Jiakun Liu</b>, Zhongxin Liu, David Lo, Xin Xia, Shanping Li",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
             "status": "Accepted",
-            "pdf": ""
+            "pdf": "papers/tosem2024a.pdf"
         },
         {
             "idx": "J7",
@@ -14,7 +14,7 @@
             "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Lingfeng Bao, David Lo",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
             "status": "Accepted",
-            "pdf": ""
+            "pdf": "papers/tosem_breakingchange.pdf"
         },
         {
             "idx": "J6",
@@ -22,7 +22,7 @@
             "authors": "Junda He, Bowen Xu, Zhou Yang, DongGyun Han, Chengran Yang, <b>Jiakun Liu</b>, Zhipeng Zhao, and David Lo",
             "venue": "Empirical Software Engineering (EMSE) (CCF-B)",
             "status": "Accepted",
-            "pdf": ""
+            "pdf": "papers/emse2024.pdf"
         },
         {
             "idx": "C10",
@@ -30,7 +30,7 @@
             "authors": "<b>Jiakun Liu</b>, Zicheng Zhang, Xing Hu, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",
             "venue": "46nd ACM/IEEE International Conference on Software Engineering (ICSE 2024) (CCF-A)",
             "status": "Accepted",
-            "pdf": ""
+            "pdf": "papers/minimon.pdf"
         },
         {
             "idx": "C9",
@@ -38,7 +38,7 @@
             "authors": "Hao Gu, Shichao Zhang, Qiao Huang, Zhifang Liao, <b>Jiakun Liu</b>* and David Lo",
             "venue": "31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024) (CCF-B)",
             "status": "Accepted as a Full Paper. (<b>IEEE Computer Society TCSE Distinguished Paper Award</b>) ",
-            "pdf": ""
+            "pdf": "papers/saner2024a.pdf"
         },
         {
             "idx": "C8",
@@ -46,7 +46,7 @@
             "authors": "Junxiao Han, Yunkun Wang, Zhongxin Liu, Lingfeng Bao, <b>Jiakun Liu</b>*, David Lo and Shuiguang Deng",
             "venue": "31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024) (CCF-B)",
             "status": "Accepted as a Full Paper.",
-            "pdf": ""
+            "pdf": "papers/saner2024b.pdf"
         }
     ],
     "2023": [
