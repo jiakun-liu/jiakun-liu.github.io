@@ -1,4 +1,22 @@
 {
+    "2025": [
+        {
+            "idx": "C12",
+            "title": "DynDebloater: Dynamically Debloating Unwanted Features of Android Apps without APK Modification",
+            "authors": "Zicheng Zhang, <b>Jiakun Liu</b>, Ferdian Thung, Xing Hu, Wei Minn, Yan Naing Tun, Lwin Khin Shar, David Lo, Debin Gao",
+            "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025) (CCF-A)",
+            "status": "Accepted as a Tool Demo Paper.",
+            "pdf": ""
+        },
+        {
+            "idx": "C11",
+            "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
+            "authors": "Junxiao Han, Guanqi Wang, <b>Jiakun Liu</b>*, Lingfeng Bao, Xing Hu, Jinling Wei, Shuiguang Deng",
+            "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
+            "status": "Accepted",
+            "pdf": ""
+        }
+    ],
     "2024": [
         {
             "idx": "J8",
@@ -19,7 +37,7 @@
         {
             "idx": "J6",
             "title": "PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models",
-            "authors": "Junda He, Bowen Xu, Zhou Yang, DongGyun Han, Chengran Yang, <b>Jiakun Liu</b>, Zhipeng Zhao, and David Lo",
+            "authors": "Junda He, Bowen Xu, Zhou Yang, DongGyun Han, Chengran Yang, <b>Jiakun Liu</b>*, Zhipeng Zhao, and David Lo",
             "venue": "Empirical Software Engineering (EMSE) (CCF-B)",
             "status": "Accepted",
             "pdf": "papers/emse2024.pdf"
