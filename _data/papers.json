@@ -109,13 +109,6 @@
             "pdf": "papers/jsep.pdf"
         },
         {
-            "idx": "Technique Report",
-            "title": "Dynamically Blocking Target Methods in Android Applications",
-            "authors": "Zicheng Zhang, Jiakun Liu, Debin Gao, David Lo",
-            "venue": "Technique Report",
-            "pdf": "papers/technique_dyndebloater.pdf"
-        },
-        {
             "idx": "C7",
             "title": "The Devil is in the Tails: How Long-Tailed Code Distributions Impact Large Language Models",
             "authors": "Xin Zhou, Kisub Kim, Bowen Xu, <b>Jiakun Liu</b>, DongGyun Han, David Lo",
@@ -194,7 +187,7 @@
     ],
     "2020": [
         {
-            "idx": "J1",
+            "idx": "C1",
             "title": "Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks",
             "authors": "<b>Jiakun Liu</b>, Qiao Huang, Xin Xia, Emad Shihab, David Lo, Shanping Li",
             "venue": "42nd ACM/IEEE International Conference on Software Engineering (ICSE 2020) (CCF-A)",
@@ -202,7 +195,7 @@
             "pdf": "papers/icse201.pdf"
         },
         {
-            "idx": "C1",
+            "idx": "J1",
             "title": "基于信息检索的软件缺陷定位技术研究进展",
             "authors": "张芸，<b>刘佳琨</b>，夏鑫，吴明晖，颜晖.",
             "venue": "软件学报",
