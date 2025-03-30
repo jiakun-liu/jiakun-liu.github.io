@@ -1,6 +1,22 @@
 {
     "2025": [
         {
+            "idx": "C14",
+            "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
+            "authors": "Lingxiao Tang, <b>Jiakun Liu</b>, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao",
+            "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) (CCF-A)",
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
+        },
+        {
+            "idx": "C13",
+            "title": "More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph",
+            "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Chao Ni, David Lo, Lingfeng Bao",
+            "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) (CCF-A)",
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
+        },
+        {
             "idx": "C12",
             "title": "DynDebloater: Dynamically Debloating Unwanted Features of Android Apps without APK Modification",
             "authors": "Zicheng Zhang, <b>Jiakun Liu</b>, Ferdian Thung, Xing Hu, Wei Minn, Yan Naing Tun, Lwin Khin Shar, David Lo, Debin Gao",
