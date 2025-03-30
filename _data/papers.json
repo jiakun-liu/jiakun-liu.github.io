@@ -63,7 +63,7 @@
             "title": "Towards Benchmarking the Coverage of Automated Testing Tools in Android against Manual Testing",
             "authors": "Ferdian Thung, Ivana Clairine Irsan, <b>Jiakun Liu</b>, David Lo",
             "venue": "11th IEEE/ACM  International Conference on Mobile Software Engineering and Systems (MOBILESoft 2024)",
-            "status": "Accepted",
+            "status": "Accepted as a short paper",
             "pdf": "papers/mobilesoft_2024_coverage.pdf"
         },
         {
@@ -71,7 +71,7 @@
             "title": "Towards Speedy Permission-Based Debloating for Android Apps",
             "authors": "Ferdian Thung, <b>Jiakun Liu</b>, Pattarakrit Rattanukul, Shahar Maoz, Eran Toch, Debin Gao, David Lo",
             "venue": "11th IEEE/ACM  International Conference on Mobile Software Engineering and Systems (MOBILESoft 2024)",
-            "status": "Accepted",
+            "status": "Accepted as a short paper",
             "pdf": "papers/mobilesoft_2024_permission.pdf"
         },
         {
