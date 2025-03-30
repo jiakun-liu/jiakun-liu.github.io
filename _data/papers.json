@@ -1,7 +1,7 @@
 {
     "2025": [
         {
-            "idx": "C14",
+            "idx": "C16",
             "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
             "authors": "Lingxiao Tang, <b>Jiakun Liu</b>, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao",
             "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) (CCF-A)",
@@ -9,7 +9,7 @@
             "pdf": ""
         },
         {
-            "idx": "C13",
+            "idx": "C15",
             "title": "More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph",
             "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Chao Ni, David Lo, Lingfeng Bao",
             "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) (CCF-A)",
@@ -17,7 +17,7 @@
             "pdf": ""
         },
         {
-            "idx": "C12",
+            "idx": "C14",
             "title": "DynDebloater: Dynamically Debloating Unwanted Features of Android Apps without APK Modification",
             "authors": "Zicheng Zhang, <b>Jiakun Liu</b>, Ferdian Thung, Xing Hu, Wei Minn, Yan Naing Tun, Lwin Khin Shar, David Lo, Debin Gao",
             "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025) (CCF-A)",
@@ -25,7 +25,7 @@
             "pdf": ""
         },
         {
-            "idx": "C11",
+            "idx": "C13",
             "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
             "authors": "Junxiao Han, Guanqi Wang, <b>Jiakun Liu</b>*, Lingfeng Bao, Xing Hu, Jinling Wei, Shuiguang Deng",
             "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
@@ -57,6 +57,22 @@
             "venue": "Empirical Software Engineering (EMSE) (CCF-B)",
             "status": "Accepted",
             "pdf": "papers/emse2024.pdf"
+        },
+        {
+            "idx": "C12",
+            "title": "Towards Benchmarking the Coverage of Automated Testing Tools in Android against Manual Testing",
+            "authors": "Ferdian Thung, Ivana Clairine Irsan, <b>Jiakun Liu</b>, David Lo",
+            "venue": "11th IEEE/ACM  International Conference on Mobile Software Engineering and Systems (MOBILESoft 2024)",
+            "status": "Accepted",
+            "pdf": "papers/mobilesoft_2024_coverage.pdf"
+        },
+        {
+            "idx": "C11",
+            "title": "Towards Speedy Permission-Based Debloating for Android Apps",
+            "authors": "Ferdian Thung, <b>Jiakun Liu</b>, Pattarakrit Rattanukul, Shahar Maoz, Eran Toch, Debin Gao, David Lo",
+            "venue": "11th IEEE/ACM  International Conference on Mobile Software Engineering and Systems (MOBILESoft 2024)",
+            "status": "Accepted",
+            "pdf": "papers/mobilesoft_2024_permission.pdf"
         },
         {
             "idx": "C10",
