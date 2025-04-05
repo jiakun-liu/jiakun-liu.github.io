@@ -1,6 +1,14 @@
 {
     "2025": [
         {
+            "idx": "C17",
+            "title": "RustMap: Towards Project-Scale C-to-Rust Migration via LLM and Program Analysis",
+            "authors": "Xuemeng Cai, <b>Jiakun Liu</b>*, Xiping Huang, Yijun Yu, Haitao Wu, Chunmiao Li, Bo Wang, Imam Nur Bani Yusuf, Lingxiao Jiang",
+            "venue": "The 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025) (CCF-B)",
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
+        },
+        {
             "idx": "C16",
             "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
             "authors": "Lingxiao Tang, <b>Jiakun Liu</b>, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao",
