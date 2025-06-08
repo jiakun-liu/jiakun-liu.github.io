@@ -1,6 +1,14 @@
 {
     "2025": [
         {
+            "idx": "C18",
+            "title": "APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation",
+            "authors": "Chengran Yang, <b>Jiakun Liu</b>*, Bowen Xu, Christoph Treude, Yunbo Lyu, Junda He, Ming Li, David Lo",
+            "venue": "International Conference on Software Maintenance and Evolution (ICSME 2025) (CCF-B)",
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
+        },
+        {
             "idx": "C17",
             "title": "RustMap: Towards Project-Scale C-to-Rust Migration via LLM and Program Analysis",
             "authors": "Xuemeng Cai, <b>Jiakun Liu</b>*, Xiping Huang, Yijun Yu, Haitao Wu, Chunmiao Li, Bo Wang, Imam Nur Bani Yusuf, Lingxiao Jiang",
