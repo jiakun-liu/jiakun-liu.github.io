@@ -1,6 +1,22 @@
 {
     "2025": [
         {
+            "idx": "J9",
+            "title": "Activity Transition Graph Generation: How Far Are We?",
+            "authors": "<b>Jiakun Liu</b>, Peixin Zhang, Han Hu, Yonghui Liu, Wei Minn, Ferdian Thung, Shahar Maoz, Eran Toch, Debin Gao, David Lo",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
+        },
+        {
+            "idx": "C19",
+            "title": "UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval",
+            "authors": "Yang Yang, Li Kuang, <b>Jiakun Liu</b>, Zhongxin Liu, Yingjie Xia, David Lo",
+            "venue": "ACM/IEEE International Conference on Software Engineering (ICSE 2026) (CCF-A)",
+            "status": "Accepted",
+            "pdf": ""
+        },
+        {
             "idx": "C18",
             "title": "APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation",
             "authors": "Chengran Yang, <b>Jiakun Liu</b>*, Bowen Xu, Christoph Treude, Yunbo Lyu, Junda He, Ming Li, David Lo",
@@ -94,7 +110,7 @@
             "idx": "C10",
             "title": "MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating",
             "authors": "<b>Jiakun Liu</b>, Zicheng Zhang, Xing Hu, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",
-            "venue": "46nd ACM/IEEE International Conference on Software Engineering (ICSE 2024) (CCF-A)",
+            "venue": "46th ACM/IEEE International Conference on Software Engineering (ICSE 2024) (CCF-A)",
             "status": "Accepted",
             "pdf": "papers/minimon.pdf"
         },
