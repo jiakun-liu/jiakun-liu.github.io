@@ -1,4 +1,21 @@
 {
+    "2026": [
+        {
+            "idx": "J10",
+            "title": "Delving into History: Retrieve Less but Augment More on Commit Message Generation",
+            "authors": "Peng Lan, <b>Jiakun Liu</b>*, Xinyu Zhong, Ning Gui, Lingfeng Bao, David Lo, Zhifang Liao",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
+            "idx": "C20",
+            "title": "Can LLMs Keep Up with Library Changes? An Exploratory Study on LLM-Generated Code",
+            "authors": "Xiangrong Lin, <b>Jiakun Liu</b>, Lingfeng Bao",
+            "venue": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026) (CCF-B)",
+            "status": "Accepted as a Full Paper.",
+            "pdf": ""
+        }
+    ],
     "2025": [
         {
             "idx": "J9",
@@ -11,7 +28,7 @@
         {
             "idx": "C19",
             "title": "UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval",
-            "authors": "Yang Yang, Li Kuang, <b>Jiakun Liu</b>, Zhongxin Liu, Yingjie Xia, David Lo",
+            "authors": "Yang Yang, Li Kuang, <b>Jiakun Liu</b>*, Zhongxin Liu, Yingjie Xia, David Lo",
             "venue": "ACM/IEEE International Conference on Software Engineering (ICSE 2026) (CCF-A)",
             "status": "Accepted",
             "pdf": ""
@@ -69,7 +86,7 @@
         {
             "idx": "J8",
             "title": "Exploring the Capabilities of LLMs for Code Change Related Tasks",
-            "authors": "Lishui Fan, <b>Jiakun Liu</b>, Zhongxin Liu, David Lo, Xin Xia, Shanping Li",
+            "authors": "Lishui Fan, <b>Jiakun Liu</b>#, Zhongxin Liu, David Lo, Xin Xia, Shanping Li",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
             "status": "Accepted",
             "pdf": "papers/tosem2024a.pdf"
@@ -77,7 +94,7 @@
         {
             "idx": "J7",
             "title": "Towards Better Comprehension of Breaking Changes in NPM Ecosystem",
-            "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Lingfeng Bao, David Lo",
+            "authors": "Dezhen Kong, <b>Jiakun Liu</b>#, Lingfeng Bao, David Lo",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
             "status": "Accepted",
             "pdf": "papers/tosem_breakingchange.pdf"
