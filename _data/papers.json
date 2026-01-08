@@ -12,8 +12,7 @@
             "title": "Can LLMs Keep Up with Library Changes? An Exploratory Study on LLM-Generated Code",
             "authors": "Xiangrong Lin, <b>Jiakun Liu</b>, Lingfeng Bao",
             "venue": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026) (CCF-B)",
-            "status": "Accepted as a Full Paper.",
-            "pdf": ""
+            "status": "Accepted as a Full Paper."
         }
     ],
     "2025": [
@@ -22,64 +21,56 @@
             "title": "Activity Transition Graph Generation: How Far Are We?",
             "authors": "<b>Jiakun Liu</b>, Peixin Zhang, Han Hu, Yonghui Liu, Wei Minn, Ferdian Thung, Shahar Maoz, Eran Toch, Debin Gao, David Lo",
             "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
-            "status": "Accepted as a Full Paper.",
-            "pdf": ""
+            "status": "Accepted as a Full Paper."
         },
         {
             "idx": "C19",
             "title": "UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval",
             "authors": "Yang Yang, Li Kuang, <b>Jiakun Liu</b>*, Zhongxin Liu, Yingjie Xia, David Lo",
             "venue": "ACM/IEEE International Conference on Software Engineering (ICSE 2026) (CCF-A)",
-            "status": "Accepted",
-            "pdf": ""
+            "status": "Accepted"
         },
         {
             "idx": "C18",
             "title": "APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation",
             "authors": "Chengran Yang, <b>Jiakun Liu</b>*, Bowen Xu, Christoph Treude, Yunbo Lyu, Junda He, Ming Li, David Lo",
             "venue": "International Conference on Software Maintenance and Evolution (ICSME 2025) (CCF-B)",
-            "status": "Accepted as a Full Paper.",
-            "pdf": ""
+            "status": "Accepted as a Full Paper."
         },
         {
             "idx": "C17",
             "title": "RustMap: Towards Project-Scale C-to-Rust Migration via LLM and Program Analysis",
             "authors": "Xuemeng Cai, <b>Jiakun Liu</b>*, Xiping Huang, Yijun Yu, Haitao Wu, Chunmiao Li, Bo Wang, Imam Nur Bani Yusuf, Lingxiao Jiang",
             "venue": "The 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025) (CCF-C)",
-            "status": "Accepted as a Full Paper.",
-            "pdf": ""
+            "status": "Accepted as a Full Paper."
         },
         {
             "idx": "C16",
             "title": "LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models",
             "authors": "Lingxiao Tang, <b>Jiakun Liu</b>, Zhongxin Liu, Xiaohu Yang, Lingfeng Bao",
             "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) (CCF-A)",
-            "status": "Accepted as a Full Paper. (<b>ACM SIGSOFT Distinguished Paper Award</b>) ",
-            "pdf": ""
+            "status": "Accepted as a Full Paper. (<b>ACM SIGSOFT Distinguished Paper Award</b>) "
         },
         {
             "idx": "C15",
             "title": "More Effective JavaScript Breaking Change Detection via Dynamic Object Relation Graph",
             "authors": "Dezhen Kong, <b>Jiakun Liu</b>, Chao Ni, David Lo, Lingfeng Bao",
             "venue": "The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025) (CCF-A)",
-            "status": "Accepted as a Full Paper.",
-            "pdf": ""
+            "status": "Accepted as a Full Paper."
         },
         {
             "idx": "C14",
             "title": "DynDebloater: Dynamically Debloating Unwanted Features of Android Apps without APK Modification",
             "authors": "Zicheng Zhang, <b>Jiakun Liu</b>, Ferdian Thung, Xing Hu, Wei Minn, Yan Naing Tun, Lwin Khin Shar, David Lo, Debin Gao",
             "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2025) (CCF-A)",
-            "status": "Accepted as a Tool Demo Paper.",
-            "pdf": ""
+            "status": "Accepted as a Tool Demo Paper."
         },
         {
             "idx": "C13",
             "title": "A Comprehensive Study of Bug Characteristics on Foundation Language Models",
             "authors": "Junxiao Han, Guanqi Wang, <b>Jiakun Liu</b>*, Lingfeng Bao, Xing Hu, Jinling Wei, Shuiguang Deng",
             "venue": "2nd Conference on AI Foundation Models and Software Engineering (FORGE 2025)",
-            "status": "Accepted (<b>ACM SIGSOFT Distinguished Paper Award</b>) ",
-            "pdf": ""
+            "status": "Accepted (<b>ACM SIGSOFT Distinguished Paper Award</b>) "
         }
     ],
     "2024": [
