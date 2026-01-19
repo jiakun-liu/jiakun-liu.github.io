@@ -1,6 +1,20 @@
 {
     "2026": [
         {
+            "idx": "J11",
+            "title": "Fortifying the Seams Between C/C++ and Rust: Characterizing Bugs in Interop Tools",
+            "authors": "Xuemeng Cai, <b>Jiakun Liu</b>*, Cunyang Liu, Lingfeng Bao, Yijun Yu, Lingxiao Jiang",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
+            "idx": "C21",
+            "title": "Audio-Visual DeepFake Generation and Detection: An Exploratory Survey",
+            "authors": "Hang Xu, Yuning An, Pengrui Fu, Zhiyu Fan, Boquan Li, <b>Jiakun Liu</b>, Yachao Liang, Min Yu",
+            "venue": "2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026) (CCF-B)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
             "idx": "J10",
             "title": "Delving into History: Retrieve Less but Augment More on Commit Message Generation",
             "authors": "Peng Lan, <b>Jiakun Liu</b>*, Xinyu Zhong, Ning Gui, Lingfeng Bao, David Lo, Zhifang Liao",
