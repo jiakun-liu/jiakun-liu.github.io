@@ -1,6 +1,13 @@
 {
     "2026": [
         {
+            "idx": "C22",
+            "title": "MuMuTestUp: Mutation-based Multi-Agent Test Case Update",
+            "authors": "Dawei Tian, <b>Jiakun Liu</b>*, Yun Peng, Yichen Zhang, Jianlei Chi, Jun Sun, Xiaohong Su",
+            "venue": "The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026) (CCF-A)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
             "idx": "J12",
             "title": "Fortifying the Seams Between C/C++ and Rust: Characterizing Bugs in Interop Tools",
             "authors": "Xuemeng Cai, <b>Jiakun Liu</b>*, Cunyang Liu, Lingfeng Bao, Yijun Yu, Lingxiao Jiang",
