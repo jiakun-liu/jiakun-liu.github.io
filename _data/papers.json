@@ -1,6 +1,20 @@
 {
     "2026": [
         {
+            "idx": "J13",
+            "title": "Code Refinement With Repository Context: How Far Are We?",
+            "authors": "Ke Wang, Peng Lan, <b>Jiakun Liu</b>*, Shengbing Ren, Lingfeng Bao, Junxiao Han, David Lo, Zhifang Liao",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
+            "idx": "C23",
+            "title": "Debate with Myself: Zero-Shot Event Causality Identification with Adversarial Evidence Integration via Large Language Models",
+            "authors": "Zefan Zeng, Yuehang Si, Xingchen Hu, Qing Cheng, <b>Jiakun Liu</b>, Zhong Liu",
+            "venue": "The 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026) (CCF-B)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
             "idx": "C22",
             "title": "MuMuTestUp: Mutation-based Multi-Agent Test Case Update",
             "authors": "Dawei Tian, <b>Jiakun Liu</b>*, Yun Peng, Yichen Zhang, Jianlei Chi, Jun Sun, Xiaohong Su",
