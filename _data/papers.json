@@ -1,6 +1,20 @@
 {
     "2026": [
         {
+            "idx": "C25",
+            "title": "Multi-Level Code Optimization via Mixture of Prompts",
+            "authors": "Yun Peng, Jun Wan, <b>Jiakun Liu</b>, Shuzheng Gao, David Lo, Xiaoxue Ren",
+            "venue": "41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026) (CCF-A)",
+            "status": "Accepted as a Full paper"
+        },
+        {
+            "idx": "C24",
+            "title": "Effective and Efficient Context Retrieval via Partial Dependency Graph for Repository-Level Code Generation",
+            "authors": "Zhongxin Liu, Zhonghao Jiang, Zhifan Ye, Haoye Wang, <b>Jiakun Liu</b>, Xiaoxue Ren",
+            "venue": "41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026) (CCF-A)",
+            "status": "Accepted as a Full paper"
+        },
+        {
             "idx": "J13",
             "title": "Code Refinement With Repository Context: How Far Are We?",
             "authors": "Ke Wang, Peng Lan, <b>Jiakun Liu</b>*, Shengbing Ren, Lingfeng Bao, Junxiao Han, David Lo, Zhifang Liao",
