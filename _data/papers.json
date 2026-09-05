@@ -1,6 +1,13 @@
 {
     "2026": [
         {
+            "idx": "J14",
+            "title": "Effective Fuzzing-based Prototype Pollution Detection via Forced Execution and Template Synthesis",
+            "authors": "Dezhen Kong, Peisen Yao, <b>Jiakun Liu</b>, Lingfeng Bao",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)",
+            "status": "Accepted as a Full Paper."
+        },
+        {
             "idx": "C25",
             "title": "Multi-Level Code Optimization via Mixture of Prompts",
             "authors": "Yun Peng, Jun Wan, <b>Jiakun Liu</b>, Shuzheng Gao, David Lo, Xiaoxue Ren",
